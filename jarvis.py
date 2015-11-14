@@ -56,6 +56,7 @@ def starter(cliargs):
     if (len(cliargs) > 1):
         command = cliargs[2]
         # TODO: Call dispatcher with args instead of prompting user. 
+        dispatcher(cliargs[1], command )
     else:
         prompter()
 
