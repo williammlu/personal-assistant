@@ -1,4 +1,7 @@
 Attendance!
-
-
+<<<<<<< HEAD
+=======
+Attendance List
+Put your name if you came to class!
 William Lu
+>>>>>>> upstream/master
